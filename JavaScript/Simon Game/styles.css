@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+#level-title {
+  font-family: "Press Start 2P", cursive;
+  font-size: 2rem;
+  margin: 5%;
+  color: #000000;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: darkred;
+  opacity: 0.8;
+}
+
+.purple {
+  background-color: #640d5f;
+}
+
+.green {
+  background-color: #6ec207;
+}
+
+.blue {
+  background-color: #4379f2;
+}
+
+.yellow {
+  background-color: #ffeb55;
+}
+
+.pressed {
+  box-shadow: 0 0 20px #ffffff;
+  background-color: #000000;
+}

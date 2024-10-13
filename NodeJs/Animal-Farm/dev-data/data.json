@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "productName": "Lions",
+    "image": "🦁",
+    "from": "Africa",
+    "nutrients": "Meat",
+    "quantity": "5",
+    "price": "5000",
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black. The length and color of a lion's mane is likely determined by age, genetics and hormones."
+  },
+  {
+    "id": 1,
+    "productName": "Rabits",
+    "image": "🐰",
+    "from": "Mongolia",
+    "nutrients": "Meat",
+    "quantity": "5",
+    "price": "100",
+    "description": "Rabbits are small, furry mammals with long ears, short fluffy tails, and strong, large hind legs. They have 2 pairs of sharp incisors (front teeth), one pair on top and one pair on the bottom. They also have 2 peg teeth behind the top incisors."
+  },
+  {
+    "id": 2,
+    "productName": "Cows",
+    "image": "🐮",
+    "from": "Turkey",
+    "nutrients": "Meat, Milk",
+    "quantity": "5",
+    "price": "5000",
+    "description": "Cows are renowned for their large milk-producing (mammary) glands known as udders, which possess four teats (nipples). Cows are well adapted for grazing (feeding on grass), with a wide mouth and specialized teeth for eating tough vegetation."
+  },
+  {
+    "id": 3,
+    "productName": "Bears",
+    "image": "🐻",
+    "from": "China",
+    "nutrients": "Meat,Vitamins",
+    "quantity": "5",
+    "price": "8000",
+    "description": "arge bodies with stocky legs, long snouts, small rounded ears, shaggy hair, plantigrade paws with five nonretractile claws, and short tails."
+  },
+  {
+    "id": 4,
+    "productName": "Horses",
+    "image": "🐴",
+    "from": "Russia",
+    "nutrients": "Vitamins",
+    "quantity": "5",
+    "price": "10000",
+    "description": "Horses have oval-shaped hooves, long tails, short hair, long slender legs, muscular and deep torso build, long thick necks, and large elongated heads. The mane is a region of coarse hairs, which extends along the dorsal side of the neck in both domestic and wild species."
+  }
+]
